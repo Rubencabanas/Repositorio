@@ -11,7 +11,10 @@ public class Rellenar_array {
 		}
 
 		for (int i = 0; i < numeros.length; i++) {
-			System.out.print(numeros[i] + " ");
+			
+			//mostramos por pa
+			
+			System.out.print("array de numeros "+numeros[i] + " ");
 		}
 
 	}
